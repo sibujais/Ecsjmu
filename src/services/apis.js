@@ -1,4 +1,7 @@
-const BASE_URL = "http://localhost:4000/api/v1"
+// const BASE_URL = "http://localhost:4000/api/v1"
+
+const BASE_URL = "https://server12-779f.onrender.com/api/v1"
+
 // http://localhost:4000/api/v1/auth
 // AUTH ENDPOINTS
 export const endpoints = {
